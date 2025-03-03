@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhar771" alt="shekhar771" /></a> </p>
 
-- 🔭 I’m currently working on **Demeter**
+- 🔭 I’m currently working in **Jio Platforms Ltd**
 
 - 🌱 I’m currently learning **MERN stack**
 
